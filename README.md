@@ -1,5 +1,5 @@
 # brain-mri-tumor-detection
-This project explores brain tumor detection using transfer learning on MRI images. We compare the performance of two CNN architectures: VGG16 and EfficientNetB0
+This project explores brain tumor detection using transfer learning on MRI images. We compare the performance of three CNN architectures: VGG16, EfficientNetB0 and LeNet
 
 # Brain MRI Tumor Detection
 
